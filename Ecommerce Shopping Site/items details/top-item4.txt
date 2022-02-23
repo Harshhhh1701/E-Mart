@@ -1,0 +1,23 @@
+Canon EOS 1300D 18MP Digital SLR Camera (Black)
+Price:	₹ 27,000.00
+color: black
+type: Camera
+
+description:
+
+Brand	‎Canon
+Manufacturer	‎Canon
+Model	‎EOS 1300D-cr
+Product Dimensions	‎7.8 x 12.9 x 10.1 cm; 485 Grams
+Batteries	‎1 Lithium ion batteries required.
+Item model number	‎EOS 1300D-cr
+Resolution	‎18
+Special Features	‎Optical Zoom
+Mounting Hardware	‎Camera, 18-55mm ISII Lens , 16GB Memory Card, Carry Case
+Standing screen display size	‎3 Inches
+Optical Zoom	‎18 x
+Optical Sensor Resolution	‎18 MP
+Min Shutter Speed	‎1/4000
+Min Focal Length	‎18 Millimeters
+
+link: https://www.amazon.in/Renewed-Canon-EOS-Digital-18-55mm/dp/B07KFQYYTP/ref=sr_1_2?dchild=1&keywords=canon%2Beos%2B1300D&qid=1625736269&s=electronics&sr=1-2&th=1
